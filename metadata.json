@@ -1,0 +1,5 @@
+{
+  "name": "HTML to PDF Converter",
+  "description": "A web application that converts pasted HTML code or an uploaded HTML file into a PDF document, formatted for A4 paper size. The conversion is done entirely in the browser.",
+  "requestFramePermissions": []
+}
